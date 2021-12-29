@@ -1,9 +1,10 @@
 ## Olá, eu sou Rafael V. Suarez.
 
-Sou desenvolvedor de software. Apaixonado por idiomas e novas experiências na área de desenvolvimento.
-Atualmente estou atuando como arquiteto de solução e estudando .NET Core, pois estou migrando de experiências de legado de .NET Framework, basicamente aprendendo sobre API RESTful com ASPNET Core 3.1. Com Richardson Maturity Model, Level 0 The Swamp of pox, Level 1 Resources, Level 2 Verbs Level 3 Hypermedia HATEOAS.
+- 🔭 Sou desenvolvedor de software. Apaixonado por idiomas e novas experiências na área de desenvolvimento. Atualmente estou atuando como arquiteto de solução.
+- 🌱e estudando .NET Core, pois estou migrando de experiências de legado de .NET Framework, basicamente aprendendo sobre API RESTful com ASPNET Core 3.1. Com Richardson Maturity Model, Level 0 The Swamp of pox, Level 1 Resources, Level 2 Verbs Level 3 Hypermedia HATEOAS.
 Em paralelo, estudando para certificação AZ-104 Microsoft Azure Fundamentals
 
+- 🤔 Estou procurando ajuda com Oracle Cloud Commerce.
 
 #### Contate-me
 
