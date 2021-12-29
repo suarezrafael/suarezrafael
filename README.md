@@ -4,8 +4,7 @@ Sou desenvolvedor de software. Apaixonado por idiomas e novas experiências na �
 Atualmente estou atuando como arquiteto de solução e estudando .NET Core, pois estou migrando de experiências de legado de .NET Framework, basicamente aprendendo sobre API RESTful com ASPNET Core 3.1. Com Richardson Maturity Model, Level 0 The Swamp of pox, Level 1 Resources, Level 2 Verbs Level 3 Hypermedia HATEOAS.
 Em paralelo, estudando para certificação AZ-104 Microsoft Azure Fundamentals
 
-[![Issues][issues-shield]][https://www.linkedin.com/in/rafael-vieira-suarez/l]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/rafael-vieira-suarez/]
+
 #### Contate-me
 
 <a href="mailto:rafaelv_s@hotmail.com"><img alt="Gmail" src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
