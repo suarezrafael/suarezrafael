@@ -3,12 +3,17 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Sou desenvolvedor de software. Apaixonado por idiomas e novas experiências na área de desenvolvimento. Atualmente estou atuando como arquiteto de solução.
-- 🌱e estudando .NET Core, pois estou migrando de experiências de legado de .NET Framework, basicamente aprendendo sobre API RESTful com ASPNET Core 3.1. Com Richardson Maturity Model, Level 0 The Swamp of pox, Level 1 Resources, Level 2 Verbs Level 3 Hypermedia HATEOAS.
-Em paralelo, estudando para certificação AZ-104 Microsoft Azure Fundamentals
+- 🌱e estudando .NET Core, pois estou migrando de experiências de legado de .NET Framework, basicamente aprendendo sobre API RESTful com ASPNET Core 3.1. Com Richardson Maturity Model, 
+  - Level 0 The Swamp of pox, 
+  - Level 1 Resources, 
+  - Level 2 Verbs 
+  - Level 3 Hypermedia HATEOAS.
+Em paralelo, estudando para certificação AZ-104 Microsoft Azure Administrator
 
 - 🤔 Estou procurando ajuda com Oracle Cloud Commerce.
+- 💬 Pode me perguntar sobre C#, organização de estudos, preparatório para certificação, plataformas de aprendizado, recomendação de cursos, arduino ...
 
-#### Contate-me
+#### 📫 Contate-me
 
 <a href="mailto:rafaelv_s@hotmail.com"><img alt="Gmail" src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 
