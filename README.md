@@ -19,11 +19,15 @@ Em paralelo, estudando para certificação AZ-204 Microsoft Azure Developer
 
 <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
 
+
 <hr>
 <div align="center">
 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suarezrafael&show_icons=true&locale=en&layout=compact" alt="suarezrafael" /></p>
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=suarezrafael&count_private=true&show_icons=true&theme=dracula&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)</div>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suarezrafael&" alt="suarezrafael" /></p>
 <!--
 Here are some ideas to get you started:
 
