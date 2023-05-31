@@ -23,7 +23,8 @@ Em paralelo, estudando para certificação AZ-204 Microsoft Azure Developer
 <hr>
 <div align="center">
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suarezrafael&show_icons=true&locale=en&layout=compact" alt="suarezrafael" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suarezrafael&show_icons=true&locale=en&layout=compact" alt="suarezrafael" />
+ [![](https://visitcount.itsvg.in/api?id=suarezrafael&icon=0&color=0)](https://visitcount.itsvg.in)</p>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=suarezrafael&count_private=true&show_icons=true&theme=dracula&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)</div>
 
